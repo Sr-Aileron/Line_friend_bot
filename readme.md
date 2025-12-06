@@ -1,4 +1,4 @@
-解説はhttps://zenn.dev/sr_aileron/articles/4f2c10e13c91c2
+[解説記事](https://zenn.dev/sr_aileron/articles/4f2c10e13c91c2)
 
 ## config.ini
 state_size : Markovify.NewLineText() の state_size に対応
@@ -19,3 +19,4 @@ raw.txtを変換する
 
 ## main.py
 bot本体
+
