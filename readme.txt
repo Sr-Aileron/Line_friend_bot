@@ -1,4 +1,4 @@
-解説は[こちらの記事](https://zenn.dev/sr_aileron/articles/4f2c10e13c91c2)の後半を参照
+解説はhttps://zenn.dev/sr_aileron/articles/4f2c10e13c91c2の後半を参照
 
 ## config.ini
 state_size : Markovify.NewLineText() の state_size に対応
@@ -7,3 +7,4 @@ username : 学習させたい送信者の名前
 load_path : 整形前のテキストファイルのパス
 save_path : 整形後のテキストファイルのパス
 number_of_generation : 生成する文章の数
+
