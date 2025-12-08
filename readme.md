@@ -1,4 +1,4 @@
-[解説記事](https://zenn.dev/sr_aileron/articles/4f2c10e13c91c2)
+[解説記事](https://zenn.dev/huitgroup/articles/87714a40be4cbe)
 
 ### config.ini
 設定ファイル
@@ -20,5 +20,6 @@ raw.txtを変換する
 
 ### main.py
 bot本体
+
 
 
